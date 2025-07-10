@@ -14,6 +14,7 @@ const iconMap = {
   invoices: InboxIcon,
 };
 
+export const dynamic = 'force-dynamic';
 export default async function CardWrapper() {
   const {
     numberOfCustomers,

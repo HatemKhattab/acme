@@ -9,7 +9,7 @@ import { fetchRevenue } from '@/app/lib/data';
 // https://www.tremor.so/
 // https://www.chartjs.org/
 // https://airbnb.io/visx/
-
+export const dynamic = 'force-dynamic';
 export default async function RevenueChart() {
   const revenue = await fetchRevenue();
   const chartHeight = 350;
