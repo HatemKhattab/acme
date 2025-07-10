@@ -7,7 +7,7 @@ import { Suspense } from 'react';
 import CardWrapper from '@/app/ui/dashboard/cards';
 import { RevenueChartSkeleton, LatestInvoicesSkeleton, CardsSkeleton } from '@/app/ui/skeletons';
 
-// export const dynamic = 'force-dynamic';
+export const dynamic = 'force-dynamic';
 export default async function Page() {
   return (
     <main>
