@@ -15,7 +15,7 @@ A modern, full-stack dashboard application built with Next.js 15, featuring real
 
 ## 🌟 Live Demo
 
-**[View Live Application](https://acme-kisbr7g4x-hatems-projects-e664f35c.vercel.app/dashboard)**
+**[View Live Application](https://acme-ecru-alpha.vercel.app/dashboard)**
 
 ## 🛠️ Tech Stack
 
